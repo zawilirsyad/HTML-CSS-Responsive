@@ -54,7 +54,7 @@ The Home page is the main landing page for users after they log in. It includes 
 #### page view image
 - Home/Desktop Page
 
-![Screenshot 2024-08-31 201753](https://github.com/user-attachments/assets/8bbcb413-5e7b-47fd-8d98-57959d919556)
+![Screenshot 2024-08-31 201753](https://github.com/user-attachments/assets/73eb72c0-dbc8-4353-a2df-dc4b3f79d064)
 
 ### Stylesheet (styles.css)
 The styles.css file provides styling for all pages and ensures that the design is responsive.
